@@ -12,7 +12,6 @@ dependencies:
 - seaborn
 - jupyter
 - pytorch
-- torchvision
 - tensorflow
 - tensorboard
 - scikit-learn
@@ -24,4 +23,4 @@ dependencies:
       - git+https://github.com/bp-kelley/descriptastorus
       - chemprop
       - biopython
-      - openbabel
+#      - openbabel
