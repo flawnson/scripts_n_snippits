@@ -11,7 +11,6 @@ dependencies:
 - matplotlib
 - seaborn
 - jupyter
-- pytorch
 - tensorflow
 - tensorboard
 - scikit-learn
