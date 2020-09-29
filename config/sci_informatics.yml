@@ -23,4 +23,7 @@ dependencies:
       - git+https://github.com/bp-kelley/descriptastorus
       - chemprop
       - biopython
+      - selfies
+      - molvs
+      - guacamol
 #      - openbabel
