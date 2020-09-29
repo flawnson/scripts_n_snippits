@@ -1,4 +1,4 @@
-name: sci_informatics
+name: ctga
 channels:
   - conda-forge
   - defaults
