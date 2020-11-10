@@ -14,9 +14,9 @@ echo "export PATH=~/anaconda3/bin:\$PATH" >> ~/.bashrc
 echo "Successfully installed Conda for linux version: $(conda -V)"
 
 # Create conda envs
-conda create -f all_purpose_ml.yml
-conda create -f sci_informatics.yml
-conda create -f web_dev.yml
+conda env create -f all_purpose_ml.yml
+conda env create -f sci_informatics.yml
+conda env create -f web_dev.yml
 echo "Successfully created the following environments: $(conda env list)"
 
 # Install zsh and oh-my-zsh

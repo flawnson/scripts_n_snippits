@@ -12,6 +12,8 @@ dependencies:
 - seaborn
 - jupyter
 - tensorflow
+# - torch 
+# - torchvision Manually
 - tensorboard
 - scikit-learn
 - pip:
